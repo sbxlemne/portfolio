@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a09fffd6.css",
-    "main.js": "/portfolio/static/js/main.8eb824c6.js",
+    "main.css": "/portfolio/static/css/main.169a7fe7.css",
+    "main.js": "/portfolio/static/js/main.fe3cba47.js",
     "static/media/ebook.png": "/portfolio/static/media/ebook.e9d73d8dd713de26edf9.png",
     "static/media/sbxInstituteOfTechnology.png": "/portfolio/static/media/sbxInstituteOfTechnology.a730a793fbae6b69496e.png",
     "static/media/philippineTourist.png": "/portfolio/static/media/philippineTourist.63a4d5bc54669e945b0a.png",
@@ -13,13 +13,14 @@
     "static/media/email.png": "/portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
     "static/media/sun.png": "/portfolio/static/media/sun.f794832ad72b90c61eb7.png",
     "static/media/phone.png": "/portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/profile_pic.jpg": "/portfolio/static/media/profile_pic.9e650e84487cd3dbba43.jpg",
     "static/media/moon.png": "/portfolio/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/portfolio/index.html",
-    "main.a09fffd6.css.map": "/portfolio/static/css/main.a09fffd6.css.map",
-    "main.8eb824c6.js.map": "/portfolio/static/js/main.8eb824c6.js.map"
+    "main.169a7fe7.css.map": "/portfolio/static/css/main.169a7fe7.css.map",
+    "main.fe3cba47.js.map": "/portfolio/static/js/main.fe3cba47.js.map"
   },
   "entrypoints": [
-    "static/css/main.a09fffd6.css",
-    "static/js/main.8eb824c6.js"
+    "static/css/main.169a7fe7.css",
+    "static/js/main.fe3cba47.js"
   ]
 }
