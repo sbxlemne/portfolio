@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.dce5dcfd.css",
-    "main.js": "/portfolio/static/js/main.26bbc9d7.js",
+    "main.css": "/portfolio/static/css/main.a09fffd6.css",
+    "main.js": "/portfolio/static/js/main.8eb824c6.js",
     "static/media/ebook.png": "/portfolio/static/media/ebook.e9d73d8dd713de26edf9.png",
     "static/media/sbxInstituteOfTechnology.png": "/portfolio/static/media/sbxInstituteOfTechnology.a730a793fbae6b69496e.png",
     "static/media/philippineTourist.png": "/portfolio/static/media/philippineTourist.63a4d5bc54669e945b0a.png",
     "static/media/ecommercefront.png": "/portfolio/static/media/ecommercefront.7a6e3b358279f5669572.png",
     "static/media/switcheyev2.png": "/portfolio/static/media/switcheyev2.3520d1fb33624641296d.png",
     "static/media/me.png": "/portfolio/static/media/me.5390beaa520f81b1cb40.png",
-    "static/media/award.png": "/portfolio/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/smart.png": "/portfolio/static/media/smart.f1caba2610cc65b0ddc0.png",
     "static/media/address.png": "/portfolio/static/media/address.a01cb8cc428702f30bec.png",
     "static/media/email.png": "/portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/portfolio/static/media/sun.f794832ad72b90c61eb7.png",
     "static/media/phone.png": "/portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/portfolio/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/portfolio/index.html",
-    "main.dce5dcfd.css.map": "/portfolio/static/css/main.dce5dcfd.css.map",
-    "main.26bbc9d7.js.map": "/portfolio/static/js/main.26bbc9d7.js.map"
+    "main.a09fffd6.css.map": "/portfolio/static/css/main.a09fffd6.css.map",
+    "main.8eb824c6.js.map": "/portfolio/static/js/main.8eb824c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.dce5dcfd.css",
-    "static/js/main.26bbc9d7.js"
+    "static/css/main.a09fffd6.css",
+    "static/js/main.8eb824c6.js"
   ]
 }
